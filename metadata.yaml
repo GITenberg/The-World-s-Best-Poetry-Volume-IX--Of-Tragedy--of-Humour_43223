@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43223#The-World-s-Best-Poetry-Volume-IX--Of-Tragedy--of-Humour
 gutenberg_issued: '2013-07-15'
 gutenberg_type: Text
 identifiers:
