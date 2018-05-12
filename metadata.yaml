@@ -1,0 +1,35 @@
+_repo: The-World-s-Best-Poetry-Volume-IX--Of-Tragedy--of-Humour_43223
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Gummere, Francis Barton
+    birthdate: 1855
+    deathdate: 1919
+    gutenberg_agent_id: '497'
+    url: http://www.gutenberg.org/2009/agents/497
+covers:
+- cover_type: archival
+  image_path: 43223-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Carman, Bliss
+    alias: Carman, William Bliss
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '4343'
+    url: http://www.gutenberg.org/2009/agents/4343
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
+description: ''
+gutenberg_issued: '2013-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry -- Collections'
+- !lcc 'PN'
+title: 'The World''s Best Poetry, Volume 09: Of Tragedy: of Humour'
+url: http://www.gutenberg.org/ebooks/43223
